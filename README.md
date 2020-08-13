@@ -12,3 +12,4 @@ Projeto **Open Source** com o uso das seguintes tecnologias: **_PHP, Html, CSS, 
 [<img src="https://avatars1.githubusercontent.com/u/8310962?s=460&v=4" width=115 > <br> <sub> Wilson Júnior </sub>](https://github.com/j1ni0r) |
 | :---: |  
 
+[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
