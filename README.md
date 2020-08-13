@@ -12,4 +12,8 @@ Projeto **Open Source** com o uso das seguintes tecnologias: **_PHP, Html, CSS, 
 [<img src="https://avatars1.githubusercontent.com/u/8310962?s=460&v=4" width=115 > <br> <sub> Wilson Júnior </sub>](https://github.com/j1ni0r) |
 | :---: |  
 
+Segue algumas tarefas a serem feitas :
+
+- [x] Monitoramento de Hosts
+- [ ] Colocar um botão para adicionar novo Host
 
